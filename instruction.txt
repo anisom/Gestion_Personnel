@@ -1,0 +1,17 @@
+Instruction :
+
+Compte administrateu:
+
+Login: Fadhloun		
+Mdp: marseille	
+
+Login: Collery
+Mdp: password
+
+Compte employé:
+
+Login: Rihet
+Mdp: password
+
+
+Accée a l'aplication:
