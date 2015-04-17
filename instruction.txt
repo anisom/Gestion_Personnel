@@ -1,6 +1,6 @@
 Instruction :
 
-Compte administrateu:
+Compte administrateur:
 
 Login: Fadhloun		
 Mdp: marseille	
@@ -14,4 +14,4 @@ Login: Rihet
 Mdp: password
 
 
-Accée a l'aplication:
+Accès à l'application:
